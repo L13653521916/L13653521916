@@ -1,30 +1,21 @@
 <div align="center">
 
-<!-- 增强标题横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=AI%20Agent%20Engineer&descAlignY=55" />
+<!-- 顶部横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=165&section=header&text=Li%20Lin&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=white&desc=%F0%9F%91%8B%20AI%20Agent%20Engineer&descAlignY=62" />
 
-# 👋 Hi, Here ！
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&height=50&lines=AI+Agent+Engineer+%7C+RAG+%26+LLM+Builder;FastAPI+%7C+Vue3+%7C+LangChain+%7C+Dify+%7C+Coze)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer+%7C+RAG+%26+LLM+Builder;Building+intelligent+agents+from+workflow+to+RAG;FastAPI+%7C+Vue3+%7C+LangChain+%7C+Dify+%7C+Coze)](https://git.io/typing-svg)
-
-<!-- 社交媒体按钮 -->
-<p align="center">
-  <a href="https://github.com/L13653521916"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:L13653521916@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<!-- 访问计数器 -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=L13653521916&style=for-the-badge&color=blueviolet" alt="访问计数器" />
-  <img src="https://img.shields.io/github/followers/L13653521916?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
-  <img src="https://img.shields.io/github/stars/L13653521916?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
-</p>
-
-<p>
-  You are my <img src="https://visitor-badge.laobi.icu/badge?page_id=L13653521916&left_text=visitor&right_color=FF5F6D" alt="Visitor Count" /> Thank you! 😆
-</p>
+<a href="https://github.com/L13653521916"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:L13653521916@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=L13653521916&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+<img src="https://img.shields.io/github/followers/L13653521916?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+<img src="https://img.shields.io/github/stars/L13653521916?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+<br/>
+You are my <img src="https://visitor-badge.laobi.icu/badge?page_id=L13653521916&left_text=visitor&right_color=FF5F6D" alt="Visitor Count" /> Thank you! 😆
 
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
