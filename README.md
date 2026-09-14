@@ -78,10 +78,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=L13653521916&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L13653521916&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+![Profile Views](https://komarev.com/ghpvc/?username=L13653521916&color=blueviolet&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/L13653521916?style=for-the-badge&logo=github&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/L13653521916?label=Total+Stars&style=for-the-badge&logo=github)
 
-<img src="https://github-readme-streak-stats.demolab.com/?user=L13653521916&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<br/><br/>
+
+[![AI-Workflow-Builder](https://img.shields.io/badge/AI--Workflow--Builder-View-6366F1?style=for-the-badge&logo=github)](https://github.com/L13653521916/AI-Workflow-Builder)
+![Stars](https://img.shields.io/github/stars/L13653521916/AI-Workflow-Builder?style=for-the-badge&logo=github&label=Stars)
+![Forks](https://img.shields.io/github/forks/L13653521916/AI-Workflow-Builder?style=for-the-badge&logo=github&label=Forks)
+![Last commit](https://img.shields.io/github/last-commit/L13653521916/AI-Workflow-Builder?style=for-the-badge&logo=github&label=Updated)
 
 </div>
 
