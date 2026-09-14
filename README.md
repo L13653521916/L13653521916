@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 顶部横幅（缩小高度） -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=165&section=header&text=Li%20Lin&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=white&desc=%F0%9F%91%8B%20AI%20Agent%20Engineer&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=165&section=header&fontSize=72&fontAlignY=38&animation=fadeIn&fontColor=white&desc=%F0%9F%91%8B%20AI%20Agent%20Engineer&descAlignY=62" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&height=50&lines=AI+Agent+Engineer+%7C+RAG+%26+LLM+Builder;FastAPI+%7C+Vue3+%7C+LangChain+%7C+Dify+%7C+Coze)](https://git.io/typing-svg)
 
