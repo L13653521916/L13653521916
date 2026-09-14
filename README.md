@@ -23,7 +23,6 @@ You are my <img src="https://visitor-badge.laobi.icu/badge?page_id=L13653521916&
 
 ## 🚀 About Me
 
-- 🎓 **M.S. in Computer Science** @ Shaanxi Normal University (211) · AI & Computer Science
 - 🎯 **Focus**: AI Agent, RAG, Workflow Orchestration, LLM Application Engineering
 - 🔬 **Research**: Multi-Head Attention for IoT Trajectory Planning — *DOCS 2025* (First Author)
 - 🌱 Currently exploring **Agent Skills**, **Multi-Agent Systems**, and **Production-grade RAG**
