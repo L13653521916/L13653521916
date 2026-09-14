@@ -1,19 +1,32 @@
 <div align="center">
 
-# Hi there 👋
+<!-- 增强标题横幅 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,100:FFC371&height=250&section=header&text=Li%20Lin&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=white&desc=AI%20Agent%20Engineer&descAlignY=55" />
 
-**AI Agent Engineer · Full-Stack Developer · RAG & LLM Application Builder**
+# 👋 Hi, Here ！
 
-[![GitHub followers](https://img.shields.io/github/followers/L13653521916?style=social)](https://github.com/L13653521916?tab=followers)
-[![Email](https://img.shields.io/badge/Email-L13653521916@163.com-EA4335?logo=gmail&logoColor=white)](mailto:L13653521916@163.com)
-[![Location](https://img.shields.io/badge/Location-China-blue?logo=googlemaps&logoColor=white)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=500&color=2C9CDF&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer+%7C+RAG+%26+LLM+Builder;Building+intelligent+agents+from+workflow+to+RAG;FastAPI+%7C+Vue3+%7C+LangChain+%7C+Dify+%7C+Coze)](https://git.io/typing-svg)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/L13653521916/count.svg) visitor. Thank you! :satisfied:
+<!-- 社交媒体按钮 -->
+<p align="center">
+  <a href="https://github.com/L13653521916"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:L13653521916@163.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
+<!-- 访问计数器 -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=L13653521916&style=for-the-badge&color=blueviolet" alt="访问计数器" />
+  <img src="https://img.shields.io/github/followers/L13653521916?style=for-the-badge&color=FF5F6D&labelColor=141321" alt="关注者" />
+  <img src="https://img.shields.io/github/stars/L13653521916?style=for-the-badge&color=FFC371&labelColor=141321" alt="星标" />
+</p>
 
-*Building intelligent agents — from workflow orchestration to domain-specific RAG systems.*
+<p>
+  You are my <img src="https://visitor-badge.laobi.icu/badge?page_id=L13653521916&left_text=visitor&right_color=FF5F6D" alt="Visitor Count" /> Thank you! 😆
+</p>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
 
 ---
 
@@ -21,6 +34,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/L13653521916/count
 
 - 🎓 **M.S. in Computer Science** @ Shaanxi Normal University (211) · AI & Computer Science
 - 🎯 **Focus**: AI Agent, RAG, Workflow Orchestration, LLM Application Engineering
+- 🔬 **Research**: Multi-Head Attention for IoT Trajectory Planning — *DOCS 2025* (First Author)
 - 🌱 Currently exploring **Agent Skills**, **Multi-Agent Systems**, and **Production-grade RAG**
 - 💬 Ask me about **LangChain**, **Dify/Coze**, **FastAPI**, **Vue 3**, or **Vector Retrieval**
 
@@ -76,25 +90,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/L13653521916/count
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=L13653521916&color=blueviolet&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/L13653521916?style=for-the-badge&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/L13653521916?label=Total+Stars&style=for-the-badge&logo=github)
-
-<br/><br/>
-
-[![AI-Workflow-Builder](https://img.shields.io/badge/AI--Workflow--Builder-View-6366F1?style=for-the-badge&logo=github)](https://github.com/L13653521916/AI-Workflow-Builder)
-![Stars](https://img.shields.io/github/stars/L13653521916/AI-Workflow-Builder?style=for-the-badge&logo=github&label=Stars)
-![Forks](https://img.shields.io/github/forks/L13653521916/AI-Workflow-Builder?style=for-the-badge&logo=github&label=Forks)
-![Last commit](https://img.shields.io/github/last-commit/L13653521916/AI-Workflow-Builder?style=for-the-badge&logo=github&label=Updated)
-
-</div>
-
----
-
 ## 📝 Publications
 
 | Title | Venue | Role |
@@ -103,33 +98,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/L13653521916/count
 
 ---
 
-## 🎓 Education
-
-| Period | School | Major |
-|--------|--------|-------|
-| 2024.09 – Present | 陕西师范大学 (211) | 计算机科学与技术 · 硕士 |
-| 2020.09 – 2024.06 | 长春师范大学 | 人工智能 · 本科 |
-
----
-
-## 🏅 Honors
-
-- 研究生积学奖学金
-- 本科校级二、三等奖学金 · 优秀学生称号
-- 第八届「互联网+」省赛铜奖 · 国家级立项
-
----
-
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-L13653521916-181717?style=for-the-badge&logo=github)](https://github.com/L13653521916)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:L13653521916@163.com)
-
----
-
 <div align="center">
 
-
 **Thanks for visiting! ⭐ Star my repos if you find them interesting.**
+
+<!-- 波浪动画页脚 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5F6D,50:FF9671,100:FFC371&height=120&section=footer&animation=twinkling&fontAlignY=80" width="100%"/>
 
 </div>
