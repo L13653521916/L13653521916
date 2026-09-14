@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi there, I'm 李琳 (Li Lin) 👋
+# Hi there 👋
 
 **AI Agent Engineer · Full-Stack Developer · RAG & LLM Application Builder**
 
 [![GitHub followers](https://img.shields.io/github/followers/L13653521916?style=social)](https://github.com/L13653521916?tab=followers)
 [![Email](https://img.shields.io/badge/Email-L13653521916@163.com-EA4335?logo=gmail&logoColor=white)](mailto:L13653521916@163.com)
 [![Location](https://img.shields.io/badge/Location-China-blue?logo=googlemaps&logoColor=white)]()
+
+You are my ![Visitor Count](https://profile-counter.glitch.me/L13653521916/count.svg) visitor. Thank you! :satisfied:
+
 
 *Building intelligent agents — from workflow orchestration to domain-specific RAG systems.*
 
@@ -18,7 +21,6 @@
 
 - 🎓 **M.S. in Computer Science** @ Shaanxi Normal University (211) · AI & Computer Science
 - 🎯 **Focus**: AI Agent, RAG, Workflow Orchestration, LLM Application Engineering
-- 🔬 **Research**: Multi-Head Attention for IoT Trajectory Planning — *DOCS 2025* (First Author)
 - 🌱 Currently exploring **Agent Skills**, **Multi-Agent Systems**, and **Production-grade RAG**
 - 💬 Ask me about **LangChain**, **Dify/Coze**, **FastAPI**, **Vue 3**, or **Vector Retrieval**
 
@@ -127,8 +129,6 @@
 
 <div align="center">
 
-<!-- Snake animation will appear here after enabling the workflow -->
-![Snake animation](https://raw.githubusercontent.com/L13653521916/L13653521916/output/github-contribution-grid-snake.svg)
 
 **Thanks for visiting! ⭐ Star my repos if you find them interesting.**
 
